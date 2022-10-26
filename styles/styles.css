@@ -195,7 +195,8 @@ body {
 
 .contacts,
 .tech_skills,
-.soft_skills {
+.soft_skills,
+.languages_skills {
     margin-left: 45px;
 }
 
@@ -240,7 +241,7 @@ body {
 
 .tech_skills_list,
 .soft_skills_list,
-.languages_skills {
+.languages_list {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
